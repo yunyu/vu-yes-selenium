@@ -1,3 +1,6 @@
+This method is deprecated. Contact me privately for the new method.
+==
+
 A simple script to automatically enroll in classes for Vanderbilt's YES, saving you precious seconds during course registration period.
 
 [Demo video](https://files.catbox.moe/3rssc4.mp4)
